@@ -1,0 +1,25 @@
+<group
+    android:id="@+id/batteryIcon"
+    android:scaleX="0.5"
+    android:scaleY="0.5"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0 0h24v24H0z"
+        android:strokeWidth="1"/>
+    <rect
+        android:id="@+id/greenRect"
+        android:fillColor="#00FF00"
+        android:height="15dp"
+        android:width="10dp"
+        android:x="7dp"
+        android:y="4dp"
+        android:strokeWidth="1"/>
+    <rect
+        android:fillColor="#000000"
+        android:height="2dp"
+        android:width="1dp"
+        android:x="2dp"
+        android:y="9dp"
+        android:strokeWidth="1"/>
+</group>

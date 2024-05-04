@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="background">@color/green</item>
+        <item name="android:button">@color/offwhite</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.AppCompat">
+        <item name="background">@color/black</item>
+    </style>
+
+</resources>

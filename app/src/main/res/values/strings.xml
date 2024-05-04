@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solar Lighting System</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label"></string>
+    <string name="about_fragment_label">About</string>
+    <string name="batterylevel_fragment_label">Battery Level</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="about">
+        This is the graphical user interface for the Solar Lighting System. Here, you
+        will be able to monitor battery levels, set battery preferences, and set user
+        defined preferences as well, with other features to come in the future.
+    </string>
+</resources>
